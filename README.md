@@ -28,7 +28,7 @@ Add it as a plugin in sanity.config.ts (or .js):
 ```
 ## License
 
-MIT © Little Sticks
-See LICENSE# sanity-netlify-deploy-plugin
-# sanity-plugin-netlify-deploy
-# sanity-plugin-netlify-deploy
+MIT © White Pine Studio LLC
+
+See LICENSE
+

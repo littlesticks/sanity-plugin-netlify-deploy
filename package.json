@@ -1,7 +1,7 @@
 {
-  "name": "@littlesticksdev/sanity-plugin-netlify-deploy",
-  "version": "1.0.1",
-  "description": "Let's you see your Netlify deploy targets, their status, and trigger new deploys",
+  "name": "sanity-plugin-netlify-deploy",
+  "version": "0.0.2",
+  "description": "Let's you see your Net`lify deploy targets, their status, and trigger new deploys",
   "author": "Little Sticks <hello@jaydanurwin.com>",
   "license": "MIT",
   "source": "./src/index.tsx",
